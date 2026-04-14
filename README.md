@@ -1,84 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>End‑User License Agreement (EULA)</title>
-  <style>
-    body {
-      font-family: "Segoe UI", Arial, sans-serif;
-      background-color: #f9f9f9;
-      color: #333;
-      margin: 0;
-      padding: 20px;
-      line-height: 1.6;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      background: #fff;
-      padding: 30px;
-      border-radius: 8px;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
-    }
-    h1 {
-      text-align: center;
-      color: #0066cc;
-    }
-    h2 {
-      color: #444;
-      margin-top: 25px;
-    }
-    button {
-      background-color: #0066cc;
-      color: white;
-      border: none;
-      padding: 12px 20px;
-      border-radius: 5px;
-      cursor: pointer;
-      font-size: 16px;
-      margin-right: 10px;
-    }
-    button:hover {
-      background-color: #004999;
-    }
-    .actions {
-      text-align: center;
-      margin-top: 30px;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <h1>End‑User License Agreement (EULA)</h1>
-    <p><strong>By clicking “I Agree,” you accept the following terms:</strong></p>
+#End‑User License Agreement (EULA)
 
-    <h2>1. License Grant</h2>
-    <p>You are granted a limited, non‑exclusive license to use this software for personal or business purposes. All rights remain with the developer.</p>
+Here’s a **concise README‑style summary** of your EULA, highlighting the national (South Africa) and global parts so it’s clear to anyone browsing your GitHub repo:
 
-    <h2>2. Restrictions</h2>
-    <p>You may not copy, modify, reverse engineer, or distribute the software without written permission.</p>
+---
 
-    <h2>3. Payments</h2>
-    <p>Fees are payable in your local currency and subject to applicable exchange control laws.</p>
+# 📄 EULA Summary
 
-    <h2>4. Data Protection</h2>
-    <p>We comply with privacy laws in your region (POPIA, GDPR, PDPA, etc.). Your data is processed only to enable software functionality.</p>
+### 🔑 Core Terms
+- **License Grant**: Non‑exclusive, non‑transferable right to use the software.  
+- **Restrictions**: No reverse engineering, resale, or unlawful use.  
+- **Ownership**: All intellectual property remains with the developer.  
+- **Termination**: Breach of terms ends the license immediately.  
+- **Liability**: Limited; no responsibility for indirect damages.  
 
-    <h2>5. Termination</h2>
-    <p>This license ends automatically if you breach these terms or misuse the software.</p>
+---
 
-    <h2>6. Liability</h2>
-    <p>The developer is not responsible for indirect or consequential damages arising from use of the software.</p>
+### 🇿🇦 National (South Africa)
+- **Payments**: Fees payable in ZAR, subject to SARB exchange control rules.  
+- **Data Protection**: Compliance with POPIA.  
+- **Jurisdiction**: Governed by South African law; disputes resolved in Cape Town courts.  
 
-    <h2>7. Jurisdiction</h2>
-    <p>South Africa: governed by South African law. Other regions: governed by local law or international arbitration (SIAC, ICC, etc.).</p>
+---
 
-    <div class="actions">
-      <button onclick="alert('You have accepted the EULA.')">I Agree</button>
-      <button onclick="alert('Installation cancelled.')">Cancel</button>
-    </div>
-  </div>
-</body>
-</html>
+### 🌍 Global Adaptations
+- **Africa**: Payments in local currency or USD; compliance with NDPR (Nigeria), Kenya DPA, etc.; arbitration or local courts; translations into French, Arabic, Portuguese as needed.  
+- **Asia**: Payments in USD or local currencies (JPY, INR, CNY); compliance with DPDP Act (India), PDPA (Singapore), APPI (Japan); arbitration under SIAC or HKIAC; translations into Mandarin, Japanese, Hindi.  
+- **Western Countries (EU, UK, US, Canada, Australia)**: Payments in USD, EUR, GBP, AUD; compliance with GDPR, UK DPA, CCPA, PIPEDA; stronger consumer rights (refunds/warranties); jurisdiction in England & Wales, New York, or ICC arbitration; English primary with optional EU translations.  
+
+---
+
+### ✅ Usage
+By installing or using the software, the user agrees to these terms. Regional addenda apply depending on location.
+
+## ⚠️ Disclaimer on AI Platforms and Privacy
+
+Our technology company uses **United States‑based AI platforms** to deliver software products and services.  
+Users should be aware that while these platforms operate under U.S. data and privacy standards, we also recognize and respect international frameworks such as **GDPR (Europe)** and **PIPEDA (Canada)**.  
+
+We strive to align our practices with global privacy expectations, but differences in regulatory environments may affect how data is processed and protected.  
+By using our software, you acknowledge that AI services may be hosted and operated in the United States, subject to U.S. law, while we continue to adapt compliance measures for international jurisdictions.
+
 
