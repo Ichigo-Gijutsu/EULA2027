@@ -1,8 +1,7 @@
-#End‑User License Agreement (EULA)
+# 📄 EULA Notice
 
-Here’s a **concise README‑style summary** of your EULA, highlighting the national (South Africa) and global parts so it’s clear to anyone browsing your GitHub repo:
-
----
+**EULA for the 2027 Financial Year and beyond, effective until regulations in each country are amended.  
+This agreement applies nationally in South Africa and globally through regional addenda (Africa, Asia, Western countries).**
 
 # 📄 EULA Summary
 
